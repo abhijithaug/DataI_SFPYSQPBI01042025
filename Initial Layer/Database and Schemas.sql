@@ -1,6 +1,6 @@
 /*
 =============================================================
-Create Database and Schemas
+Create Database and Schemas(Initial Layer Creation)
 =============================================================
 Script Purpose:
     This script creates a new database named 'DataWarehouse' after checking if it already exists. 
